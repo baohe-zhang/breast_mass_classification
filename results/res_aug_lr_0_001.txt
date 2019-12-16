@@ -1,0 +1,899 @@
+Time: 27
+Evaluate epoch 1 accuracy: 0.5322751322751322
+Evaluate epoch 1 precision: 0.49920255183413076
+Evaluate epoch 1 recall: 0.7097505668934241
+Evaluate epoch 1 F1: 0.5861423220973783
+Epoch 1 tarin accuracy: 0.5574074074074075
+Epoch 1 loss: 81.8151364326477
+Epoch 1 best test accuracy: 0.5322751322751322
+
+Time: 58
+Evaluate epoch 2 accuracy: 0.5851851851851851
+Evaluate epoch 2 precision: 0.5782747603833865
+Evaluate epoch 2 recall: 0.41043083900226757
+Evaluate epoch 2 F1: 0.48010610079575594
+Epoch 2 tarin accuracy: 0.5854497354497354
+Epoch 2 loss: 79.93914663791656
+Epoch 2 best test accuracy: 0.5851851851851851
+
+Time: 88
+Evaluate epoch 3 accuracy: 0.5703703703703704
+Evaluate epoch 3 precision: 0.5369978858350951
+Evaluate epoch 3 recall: 0.5759637188208617
+Evaluate epoch 3 F1: 0.5557986870897156
+Epoch 3 tarin accuracy: 0.5994708994708995
+Epoch 3 loss: 79.27479654550552
+Epoch 3 best test accuracy: 0.5851851851851851
+
+Time: 119
+Evaluate epoch 4 accuracy: 0.5989417989417989
+Evaluate epoch 4 precision: 0.5651260504201681
+Evaluate epoch 4 recall: 0.6099773242630385
+Evaluate epoch 4 F1: 0.5866957470010905
+Epoch 4 tarin accuracy: 0.608994708994709
+Epoch 4 loss: 77.94247406721115
+Epoch 4 best test accuracy: 0.5989417989417989
+
+Time: 150
+Evaluate epoch 5 accuracy: 0.6137566137566137
+Evaluate epoch 5 precision: 0.6570247933884298
+Evaluate epoch 5 recall: 0.36054421768707484
+Evaluate epoch 5 F1: 0.46559297218155193
+Epoch 5 tarin accuracy: 0.6185185185185185
+Epoch 5 loss: 77.31527388095856
+Epoch 5 best test accuracy: 0.6137566137566137
+
+Time: 180
+Evaluate epoch 6 accuracy: 0.6211640211640211
+Evaluate epoch 6 precision: 0.7172774869109948
+Evaluate epoch 6 recall: 0.31065759637188206
+Evaluate epoch 6 F1: 0.43354430379746833
+Epoch 6 tarin accuracy: 0.6312169312169312
+Epoch 6 loss: 76.33653712272644
+Epoch 6 best test accuracy: 0.6211640211640211
+
+Time: 211
+Evaluate epoch 7 accuracy: 0.5957671957671957
+Evaluate epoch 7 precision: 0.541374474053296
+Evaluate epoch 7 recall: 0.8752834467120182
+Evaluate epoch 7 F1: 0.6689774696707107
+Epoch 7 tarin accuracy: 0.6484126984126984
+Epoch 7 loss: 75.20663380622864
+Epoch 7 best test accuracy: 0.6211640211640211
+
+Time: 242
+Evaluate epoch 8 accuracy: 0.6793650793650794
+Evaluate epoch 8 precision: 0.7346938775510204
+Evaluate epoch 8 recall: 0.4897959183673469
+Evaluate epoch 8 F1: 0.5877551020408163
+Epoch 8 tarin accuracy: 0.6706349206349206
+Epoch 8 loss: 72.53001964092255
+Epoch 8 best test accuracy: 0.6793650793650794
+
+Time: 272
+Evaluate epoch 9 accuracy: 0.5544973544973545
+Evaluate epoch 9 precision: 0.5124069478908189
+Evaluate epoch 9 recall: 0.9365079365079365
+Evaluate epoch 9 F1: 0.6623897353648758
+Epoch 9 tarin accuracy: 0.692063492063492
+Epoch 9 loss: 70.322439879179
+Epoch 9 best test accuracy: 0.6793650793650794
+
+Time: 303
+Evaluate epoch 10 accuracy: 0.707936507936508
+Evaluate epoch 10 precision: 0.8066914498141264
+Evaluate epoch 10 recall: 0.49206349206349204
+Evaluate epoch 10 F1: 0.6112676056338028
+Epoch 10 tarin accuracy: 0.7238095238095238
+Epoch 10 loss: 65.76552464067936
+Epoch 10 best test accuracy: 0.707936507936508
+
+Time: 334
+Evaluate epoch 11 accuracy: 0.7206349206349206
+Evaluate epoch 11 precision: 0.6817248459958932
+Evaluate epoch 11 recall: 0.7528344671201814
+Evaluate epoch 11 F1: 0.7155172413793104
+Epoch 11 tarin accuracy: 0.7216931216931217
+Epoch 11 loss: 65.117022305727
+Epoch 11 best test accuracy: 0.7206349206349206
+
+Time: 364
+Evaluate epoch 12 accuracy: 0.7587301587301587
+Evaluate epoch 12 precision: 0.7404063205417607
+Evaluate epoch 12 recall: 0.7437641723356009
+Evaluate epoch 12 F1: 0.7420814479638008
+Epoch 12 tarin accuracy: 0.7563492063492063
+Epoch 12 loss: 60.725176483392715
+Epoch 12 best test accuracy: 0.7587301587301587
+
+Time: 395
+Evaluate epoch 13 accuracy: 0.7619047619047619
+Evaluate epoch 13 precision: 0.7713567839195979
+Evaluate epoch 13 recall: 0.6961451247165533
+Evaluate epoch 13 F1: 0.731823599523242
+Epoch 13 tarin accuracy: 0.7600529100529101
+Epoch 13 loss: 59.87156115472317
+Epoch 13 best test accuracy: 0.7619047619047619
+
+Time: 426
+Evaluate epoch 14 accuracy: 0.7661375661375661
+Evaluate epoch 14 precision: 0.7320675105485233
+Evaluate epoch 14 recall: 0.7868480725623582
+Evaluate epoch 14 F1: 0.7584699453551912
+Epoch 14 tarin accuracy: 0.7753968253968254
+Epoch 14 loss: 58.58916565775871
+Epoch 14 best test accuracy: 0.7661375661375661
+
+Time: 457
+Evaluate epoch 15 accuracy: 0.7841269841269841
+Evaluate epoch 15 precision: 0.8601823708206687
+Evaluate epoch 15 recall: 0.6417233560090703
+Evaluate epoch 15 F1: 0.7350649350649352
+Epoch 15 tarin accuracy: 0.776984126984127
+Epoch 15 loss: 57.692857921123505
+Epoch 15 best test accuracy: 0.7841269841269841
+
+Time: 488
+Evaluate epoch 16 accuracy: 0.7523809523809524
+Evaluate epoch 16 precision: 0.8349514563106796
+Evaluate epoch 16 recall: 0.5850340136054422
+Evaluate epoch 16 F1: 0.6880000000000001
+Epoch 16 tarin accuracy: 0.794973544973545
+Epoch 16 loss: 53.969954028725624
+Epoch 16 best test accuracy: 0.7841269841269841
+
+Time: 518
+Evaluate epoch 17 accuracy: 0.7693121693121693
+Evaluate epoch 17 precision: 0.8269794721407625
+Evaluate epoch 17 recall: 0.6394557823129252
+Evaluate epoch 17 F1: 0.721227621483376
+Epoch 17 tarin accuracy: 0.7925925925925926
+Epoch 17 loss: 53.96599739789963
+Epoch 17 best test accuracy: 0.7841269841269841
+
+Time: 549
+Evaluate epoch 18 accuracy: 0.7841269841269841
+Evaluate epoch 18 precision: 0.7984886649874056
+Evaluate epoch 18 recall: 0.7188208616780045
+Evaluate epoch 18 F1: 0.7565632458233891
+Epoch 18 tarin accuracy: 0.8031746031746032
+Epoch 18 loss: 52.51735903322697
+Epoch 18 best test accuracy: 0.7841269841269841
+
+Time: 580
+Evaluate epoch 19 accuracy: 0.7714285714285715
+Evaluate epoch 19 precision: 0.831858407079646
+Evaluate epoch 19 recall: 0.6394557823129252
+Evaluate epoch 19 F1: 0.7230769230769231
+Epoch 19 tarin accuracy: 0.8082010582010583
+Epoch 19 loss: 50.95780523121357
+Epoch 19 best test accuracy: 0.7841269841269841
+
+Time: 611
+Evaluate epoch 20 accuracy: 0.7756613756613756
+Evaluate epoch 20 precision: 0.8154269972451791
+Evaluate epoch 20 recall: 0.671201814058957
+Evaluate epoch 20 F1: 0.7363184079601991
+Epoch 20 tarin accuracy: 0.8076719576719577
+Epoch 20 loss: 50.835526287555695
+Epoch 20 best test accuracy: 0.7841269841269841
+
+Time: 641
+Evaluate epoch 21 accuracy: 0.783068783068783
+Evaluate epoch 21 precision: 0.8410404624277457
+Evaluate epoch 21 recall: 0.6598639455782312
+Evaluate epoch 21 F1: 0.7395171537484118
+Epoch 21 tarin accuracy: 0.8187830687830688
+Epoch 21 loss: 48.18493369221687
+Epoch 21 best test accuracy: 0.7841269841269841
+
+Time: 672
+Evaluate epoch 22 accuracy: 0.762962962962963
+Evaluate epoch 22 precision: 0.7123287671232876
+Evaluate epoch 22 recall: 0.8253968253968254
+Evaluate epoch 22 F1: 0.7647058823529411
+Epoch 22 tarin accuracy: 0.8108465608465608
+Epoch 22 loss: 49.29330709576607
+Epoch 22 best test accuracy: 0.7841269841269841
+
+Time: 703
+Evaluate epoch 23 accuracy: 0.7894179894179895
+Evaluate epoch 23 precision: 0.7665198237885462
+Evaluate epoch 23 recall: 0.7891156462585034
+Evaluate epoch 23 F1: 0.7776536312849162
+Epoch 23 tarin accuracy: 0.8182539682539682
+Epoch 23 loss: 48.458713948726654
+Epoch 23 best test accuracy: 0.7894179894179895
+
+Time: 734
+Evaluate epoch 24 accuracy: 0.7883597883597884
+Evaluate epoch 24 precision: 0.7558386411889597
+Evaluate epoch 24 recall: 0.8072562358276644
+Evaluate epoch 24 F1: 0.7807017543859649
+Epoch 24 tarin accuracy: 0.8375661375661375
+Epoch 24 loss: 43.65096843242645
+Epoch 24 best test accuracy: 0.7894179894179895
+
+Time: 765
+Evaluate epoch 25 accuracy: 0.798941798941799
+Evaluate epoch 25 precision: 0.7631027253668763
+Evaluate epoch 25 recall: 0.8253968253968254
+Evaluate epoch 25 F1: 0.7930283224400871
+Epoch 25 tarin accuracy: 0.8359788359788359
+Epoch 25 loss: 44.520750999450684
+Epoch 25 best test accuracy: 0.798941798941799
+
+Time: 795
+Evaluate epoch 26 accuracy: 0.8148148148148148
+Evaluate epoch 26 precision: 0.7878787878787878
+Evaluate epoch 26 recall: 0.8253968253968254
+Evaluate epoch 26 F1: 0.8062015503875969
+Epoch 26 tarin accuracy: 0.8261904761904761
+Epoch 26 loss: 45.894305661320686
+Epoch 26 best test accuracy: 0.8148148148148148
+
+Time: 826
+Evaluate epoch 27 accuracy: 0.7925925925925926
+Evaluate epoch 27 precision: 0.7515400410677618
+Evaluate epoch 27 recall: 0.8299319727891157
+Evaluate epoch 27 F1: 0.7887931034482758
+Epoch 27 tarin accuracy: 0.8484126984126984
+Epoch 27 loss: 42.04988308250904
+Epoch 27 best test accuracy: 0.8148148148148148
+
+Time: 857
+Evaluate epoch 28 accuracy: 0.801058201058201
+Evaluate epoch 28 precision: 0.7708779443254818
+Evaluate epoch 28 recall: 0.8163265306122449
+Evaluate epoch 28 F1: 0.7929515418502203
+Epoch 28 tarin accuracy: 0.8571428571428571
+Epoch 28 loss: 40.66278952360153
+Epoch 28 best test accuracy: 0.8148148148148148
+
+Time: 888
+Evaluate epoch 29 accuracy: 0.8042328042328042
+Evaluate epoch 29 precision: 0.8076923076923077
+Evaluate epoch 29 recall: 0.7619047619047619
+Evaluate epoch 29 F1: 0.7841306884480748
+Epoch 29 tarin accuracy: 0.8515873015873016
+Epoch 29 loss: 41.08393295109272
+Epoch 29 best test accuracy: 0.8148148148148148
+
+Time: 918
+Evaluate epoch 30 accuracy: 0.765079365079365
+Evaluate epoch 30 precision: 0.737527114967462
+Evaluate epoch 30 recall: 0.7709750566893424
+Evaluate epoch 30 F1: 0.753880266075388
+Epoch 30 tarin accuracy: 0.8642857142857143
+Epoch 30 loss: 38.072717413306236
+Epoch 30 best test accuracy: 0.8148148148148148
+
+Time: 949
+Evaluate epoch 31 accuracy: 0.7904761904761904
+Evaluate epoch 31 precision: 0.7505154639175258
+Evaluate epoch 31 recall: 0.8253968253968254
+Evaluate epoch 31 F1: 0.7861771058315334
+Epoch 31 tarin accuracy: 0.8518518518518519
+Epoch 31 loss: 40.400115080177784
+Epoch 31 best test accuracy: 0.8148148148148148
+
+Time: 980
+Evaluate epoch 32 accuracy: 0.782010582010582
+Evaluate epoch 32 precision: 0.8956228956228957
+Evaluate epoch 32 recall: 0.6031746031746031
+Evaluate epoch 32 F1: 0.7208672086720866
+Epoch 32 tarin accuracy: 0.8698412698412699
+Epoch 32 loss: 36.24820087105036
+Epoch 32 best test accuracy: 0.8148148148148148
+
+Time: 1011
+Evaluate epoch 33 accuracy: 0.8063492063492064
+Evaluate epoch 33 precision: 0.8603351955307262
+Evaluate epoch 33 recall: 0.6984126984126984
+Evaluate epoch 33 F1: 0.7709637046307884
+Epoch 33 tarin accuracy: 0.8695767195767196
+Epoch 33 loss: 35.627489395439625
+Epoch 33 best test accuracy: 0.8148148148148148
+
+Time: 1042
+Evaluate epoch 34 accuracy: 0.8148148148148148
+Evaluate epoch 34 precision: 0.7782426778242678
+Evaluate epoch 34 recall: 0.8435374149659864
+Evaluate epoch 34 F1: 0.809575625680087
+Epoch 34 tarin accuracy: 0.8772486772486773
+Epoch 34 loss: 34.98957648873329
+Epoch 34 best test accuracy: 0.8148148148148148
+
+Time: 1072
+Evaluate epoch 35 accuracy: 0.8
+Evaluate epoch 35 precision: 0.7490118577075099
+Evaluate epoch 35 recall: 0.8594104308390023
+Evaluate epoch 35 F1: 0.8004223864836325
+Epoch 35 tarin accuracy: 0.8825396825396825
+Epoch 35 loss: 31.644084379076958
+Epoch 35 best test accuracy: 0.8148148148148148
+
+Time: 1103
+Evaluate epoch 36 accuracy: 0.8095238095238095
+Evaluate epoch 36 precision: 0.7594433399602386
+Evaluate epoch 36 recall: 0.8662131519274376
+Evaluate epoch 36 F1: 0.8093220338983051
+Epoch 36 tarin accuracy: 0.8899470899470899
+Epoch 36 loss: 31.247811794281006
+Epoch 36 best test accuracy: 0.8148148148148148
+
+Time: 1134
+Evaluate epoch 37 accuracy: 0.7925925925925926
+Evaluate epoch 37 precision: 0.7272727272727273
+Evaluate epoch 37 recall: 0.8888888888888888
+Evaluate epoch 37 F1: 0.7999999999999999
+Epoch 37 tarin accuracy: 0.8891534391534391
+Epoch 37 loss: 31.155919268727303
+Epoch 37 best test accuracy: 0.8148148148148148
+
+Time: 1165
+Evaluate epoch 38 accuracy: 0.8074074074074075
+Evaluate epoch 38 precision: 0.7773019271948608
+Evaluate epoch 38 recall: 0.8231292517006803
+Evaluate epoch 38 F1: 0.7995594713656388
+Epoch 38 tarin accuracy: 0.8809523809523809
+Epoch 38 loss: 32.88312164694071
+Epoch 38 best test accuracy: 0.8148148148148148
+
+Time: 1196
+Evaluate epoch 39 accuracy: 0.8105820105820106
+Evaluate epoch 39 precision: 0.7787234042553192
+Evaluate epoch 39 recall: 0.8299319727891157
+Evaluate epoch 39 F1: 0.8035126234906695
+Epoch 39 tarin accuracy: 0.8920634920634921
+Epoch 39 loss: 30.019738994538784
+Epoch 39 best test accuracy: 0.8148148148148148
+
+Time: 1226
+Evaluate epoch 40 accuracy: 0.819047619047619
+Evaluate epoch 40 precision: 0.8082191780821918
+Evaluate epoch 40 recall: 0.8027210884353742
+Evaluate epoch 40 F1: 0.8054607508532423
+Epoch 40 tarin accuracy: 0.8989417989417989
+Epoch 40 loss: 28.29559151828289
+Epoch 40 best test accuracy: 0.819047619047619
+
+Time: 1257
+Evaluate epoch 41 accuracy: 0.8
+Evaluate epoch 41 precision: 0.75
+Evaluate epoch 41 recall: 0.8571428571428571
+Evaluate epoch 41 F1: 0.7999999999999999
+Epoch 41 tarin accuracy: 0.8944444444444445
+Epoch 41 loss: 30.43829857185483
+Epoch 41 best test accuracy: 0.819047619047619
+
+Time: 1288
+Evaluate epoch 42 accuracy: 0.8031746031746032
+Evaluate epoch 42 precision: 0.7495107632093934
+Evaluate epoch 42 recall: 0.8684807256235828
+Evaluate epoch 42 F1: 0.8046218487394957
+Epoch 42 tarin accuracy: 0.8981481481481481
+Epoch 42 loss: 29.660843785852194
+Epoch 42 best test accuracy: 0.819047619047619
+
+Time: 1319
+Evaluate epoch 43 accuracy: 0.8222222222222222
+Evaluate epoch 43 precision: 0.8181818181818182
+Evaluate epoch 43 recall: 0.7959183673469388
+Evaluate epoch 43 F1: 0.806896551724138
+Epoch 43 tarin accuracy: 0.9153439153439153
+Epoch 43 loss: 23.736457616090775
+Epoch 43 best test accuracy: 0.8222222222222222
+
+Time: 1350
+Evaluate epoch 44 accuracy: 0.8222222222222222
+Evaluate epoch 44 precision: 0.864
+Evaluate epoch 44 recall: 0.7346938775510204
+Evaluate epoch 44 F1: 0.7941176470588235
+Epoch 44 tarin accuracy: 0.9246031746031746
+Epoch 44 loss: 23.126174099743366
+Epoch 44 best test accuracy: 0.8222222222222222
+
+Time: 1380
+Evaluate epoch 45 accuracy: 0.8402116402116402
+Evaluate epoch 45 precision: 0.8571428571428571
+Evaluate epoch 45 recall: 0.7891156462585034
+Evaluate epoch 45 F1: 0.8217237308146398
+Epoch 45 tarin accuracy: 0.9214285714285714
+Epoch 45 loss: 23.518832970410585
+Epoch 45 best test accuracy: 0.8402116402116402
+
+Time: 1411
+Evaluate epoch 46 accuracy: 0.837037037037037
+Evaluate epoch 46 precision: 0.8632911392405064
+Evaluate epoch 46 recall: 0.7732426303854876
+Evaluate epoch 46 F1: 0.8157894736842105
+Epoch 46 tarin accuracy: 0.9285714285714286
+Epoch 46 loss: 21.354220723733306
+Epoch 46 best test accuracy: 0.8402116402116402
+
+Time: 1442
+Evaluate epoch 47 accuracy: 0.8317460317460318
+Evaluate epoch 47 precision: 0.8012820512820513
+Evaluate epoch 47 recall: 0.8503401360544217
+Evaluate epoch 47 F1: 0.8250825082508251
+Epoch 47 tarin accuracy: 0.921957671957672
+Epoch 47 loss: 23.074704859405756
+Epoch 47 best test accuracy: 0.8402116402116402
+
+Time: 1473
+Evaluate epoch 48 accuracy: 0.819047619047619
+Evaluate epoch 48 precision: 0.7777777777777778
+Evaluate epoch 48 recall: 0.8571428571428571
+Evaluate epoch 48 F1: 0.8155339805825242
+Epoch 48 tarin accuracy: 0.9248677248677248
+Epoch 48 loss: 22.08323982730508
+Epoch 48 best test accuracy: 0.8402116402116402
+
+Time: 1503
+Evaluate epoch 49 accuracy: 0.8158730158730159
+Evaluate epoch 49 precision: 0.778705636743215
+Evaluate epoch 49 recall: 0.8458049886621315
+Evaluate epoch 49 F1: 0.8108695652173912
+Epoch 49 tarin accuracy: 0.932010582010582
+Epoch 49 loss: 20.348188795149326
+Epoch 49 best test accuracy: 0.8402116402116402
+
+Time: 1534
+Evaluate epoch 50 accuracy: 0.8486772486772487
+Evaluate epoch 50 precision: 0.8433179723502304
+Evaluate epoch 50 recall: 0.8299319727891157
+Evaluate epoch 50 F1: 0.8365714285714286
+Epoch 50 tarin accuracy: 0.937037037037037
+Epoch 50 loss: 19.1723437551409
+Epoch 50 best test accuracy: 0.8486772486772487
+
+Time: 1565
+Evaluate epoch 51 accuracy: 0.8412698412698413
+Evaluate epoch 51 precision: 0.8818897637795275
+Evaluate epoch 51 recall: 0.7619047619047619
+Evaluate epoch 51 F1: 0.8175182481751825
+Epoch 51 tarin accuracy: 0.9306878306878307
+Epoch 51 loss: 21.02588900178671
+Epoch 51 best test accuracy: 0.8486772486772487
+
+Time: 1596
+Evaluate epoch 52 accuracy: 0.8074074074074075
+Evaluate epoch 52 precision: 0.7485604606525912
+Evaluate epoch 52 recall: 0.8843537414965986
+Evaluate epoch 52 F1: 0.8108108108108107
+Epoch 52 tarin accuracy: 0.944973544973545
+Epoch 52 loss: 16.205928839743137
+Epoch 52 best test accuracy: 0.8486772486772487
+
+Time: 1627
+Evaluate epoch 53 accuracy: 0.8402116402116402
+Evaluate epoch 53 precision: 0.9166666666666666
+Evaluate epoch 53 recall: 0.7233560090702947
+Evaluate epoch 53 F1: 0.8086185044359949
+Epoch 53 tarin accuracy: 0.9346560846560846
+Epoch 53 loss: 18.698994491249323
+Epoch 53 best test accuracy: 0.8486772486772487
+
+Time: 1658
+Evaluate epoch 54 accuracy: 0.8507936507936508
+Evaluate epoch 54 precision: 0.8588516746411483
+Evaluate epoch 54 recall: 0.8140589569160998
+Evaluate epoch 54 F1: 0.8358556461001164
+Epoch 54 tarin accuracy: 0.9285714285714286
+Epoch 54 loss: 20.206499883905053
+Epoch 54 best test accuracy: 0.8507936507936508
+
+Time: 1688
+Evaluate epoch 55 accuracy: 0.852910052910053
+Evaluate epoch 55 precision: 0.8325991189427313
+Evaluate epoch 55 recall: 0.8571428571428571
+Evaluate epoch 55 F1: 0.8446927374301676
+Epoch 55 tarin accuracy: 0.9412698412698413
+Epoch 55 loss: 17.502115301787853
+Epoch 55 best test accuracy: 0.852910052910053
+
+Time: 1719
+Evaluate epoch 56 accuracy: 0.8380952380952381
+Evaluate epoch 56 precision: 0.7716981132075472
+Evaluate epoch 56 recall: 0.927437641723356
+Evaluate epoch 56 F1: 0.8424304840370752
+Epoch 56 tarin accuracy: 0.9563492063492064
+Epoch 56 loss: 13.845015654340386
+Epoch 56 best test accuracy: 0.852910052910053
+
+Time: 1750
+Evaluate epoch 57 accuracy: 0.8402116402116402
+Evaluate epoch 57 precision: 0.8502415458937198
+Evaluate epoch 57 recall: 0.7981859410430839
+Evaluate epoch 57 F1: 0.8233918128654971
+Epoch 57 tarin accuracy: 0.9283068783068783
+Epoch 57 loss: 20.368059078231454
+Epoch 57 best test accuracy: 0.852910052910053
+
+Time: 1781
+Evaluate epoch 58 accuracy: 0.837037037037037
+Evaluate epoch 58 precision: 0.7887323943661971
+Evaluate epoch 58 recall: 0.8888888888888888
+Evaluate epoch 58 F1: 0.835820895522388
+Epoch 58 tarin accuracy: 0.9529100529100529
+Epoch 58 loss: 14.940306968986988
+Epoch 58 best test accuracy: 0.852910052910053
+
+Time: 1811
+Evaluate epoch 59 accuracy: 0.8306878306878307
+Evaluate epoch 59 precision: 0.7696737044145874
+Evaluate epoch 59 recall: 0.909297052154195
+Evaluate epoch 59 F1: 0.8336798336798337
+Epoch 59 tarin accuracy: 0.9502645502645503
+Epoch 59 loss: 15.176027081906796
+Epoch 59 best test accuracy: 0.852910052910053
+
+Time: 1842
+Evaluate epoch 60 accuracy: 0.8677248677248677
+Evaluate epoch 60 precision: 0.8708920187793427
+Evaluate epoch 60 recall: 0.8412698412698413
+Evaluate epoch 60 F1: 0.8558246828143022
+Epoch 60 tarin accuracy: 0.95
+Epoch 60 loss: 14.183110356330872
+Epoch 60 best test accuracy: 0.8677248677248677
+
+Time: 27
+Evaluate epoch 61 accuracy: 0.855026455026455
+Evaluate epoch 61 precision: 0.8725490196078431
+Evaluate epoch 61 recall: 0.8072562358276644
+Evaluate epoch 61 F1: 0.8386336866902239
+Epoch 61 tarin accuracy: 0.9555555555555556
+Epoch 61 loss: 13.413090197369456
+Epoch 61 best test accuracy: 0.855026455026455
+
+Time: 58
+Evaluate epoch 62 accuracy: 0.8296296296296296
+Evaluate epoch 62 precision: 0.8804347826086957
+Evaluate epoch 62 recall: 0.7346938775510204
+Evaluate epoch 62 F1: 0.8009888751545118
+Epoch 62 tarin accuracy: 0.9486772486772487
+Epoch 62 loss: 15.327005457133055
+Epoch 62 best test accuracy: 0.855026455026455
+
+Time: 89
+Evaluate epoch 63 accuracy: 0.8518518518518519
+Evaluate epoch 63 precision: 0.8264642082429501
+Evaluate epoch 63 recall: 0.8639455782312925
+Evaluate epoch 63 F1: 0.8447893569844789
+Epoch 63 tarin accuracy: 0.9576719576719577
+Epoch 63 loss: 13.689810018986464
+Epoch 63 best test accuracy: 0.855026455026455
+
+Time: 120
+Evaluate epoch 64 accuracy: 0.8814814814814815
+Evaluate epoch 64 precision: 0.8870588235294118
+Evaluate epoch 64 recall: 0.854875283446712
+Evaluate epoch 64 F1: 0.8706697459584296
+Epoch 64 tarin accuracy: 0.9613756613756613
+Epoch 64 loss: 11.850337613373995
+Epoch 64 best test accuracy: 0.8814814814814815
+
+Time: 151
+Evaluate epoch 65 accuracy: 0.8645502645502645
+Evaluate epoch 65 precision: 0.8501118568232662
+Evaluate epoch 65 recall: 0.8616780045351474
+Evaluate epoch 65 F1: 0.8558558558558559
+Epoch 65 tarin accuracy: 0.942063492063492
+Epoch 65 loss: 17.690471701323986
+Epoch 65 best test accuracy: 0.8814814814814815
+
+Time: 181
+Evaluate epoch 66 accuracy: 0.8613756613756614
+Evaluate epoch 66 precision: 0.8399122807017544
+Evaluate epoch 66 recall: 0.8684807256235828
+Evaluate epoch 66 F1: 0.8539576365663322
+Epoch 66 tarin accuracy: 0.930952380952381
+Epoch 66 loss: 20.4346119556576
+Epoch 66 best test accuracy: 0.8814814814814815
+
+Time: 212
+Evaluate epoch 67 accuracy: 0.8814814814814815
+Evaluate epoch 67 precision: 0.8816705336426914
+Evaluate epoch 67 recall: 0.8616780045351474
+Evaluate epoch 67 F1: 0.871559633027523
+Epoch 67 tarin accuracy: 0.9658730158730159
+Epoch 67 loss: 11.116340415552258
+Epoch 67 best test accuracy: 0.8814814814814815
+
+Time: 243
+Evaluate epoch 68 accuracy: 0.852910052910053
+Evaluate epoch 68 precision: 0.802
+Evaluate epoch 68 recall: 0.909297052154195
+Evaluate epoch 68 F1: 0.8522848034006376
+Epoch 68 tarin accuracy: 0.9616402116402116
+Epoch 68 loss: 11.647114841267467
+Epoch 68 best test accuracy: 0.8814814814814815
+
+Time: 274
+Evaluate epoch 69 accuracy: 0.8634920634920635
+Evaluate epoch 69 precision: 0.9239130434782609
+Evaluate epoch 69 recall: 0.7709750566893424
+Evaluate epoch 69 F1: 0.8405438813349815
+Epoch 69 tarin accuracy: 0.9703703703703703
+Epoch 69 loss: 9.774640146642923
+Epoch 69 best test accuracy: 0.8814814814814815
+
+Time: 304
+Evaluate epoch 70 accuracy: 0.8603174603174604
+Evaluate epoch 70 precision: 0.9098143236074271
+Evaluate epoch 70 recall: 0.7777777777777778
+Evaluate epoch 70 F1: 0.8386308068459658
+Epoch 70 tarin accuracy: 0.9645502645502646
+Epoch 70 loss: 11.101420754566789
+Epoch 70 best test accuracy: 0.8814814814814815
+
+Time: 335
+Evaluate epoch 71 accuracy: 0.8783068783068783
+Evaluate epoch 71 precision: 0.8862559241706162
+Evaluate epoch 71 recall: 0.8480725623582767
+Evaluate epoch 71 F1: 0.8667439165701044
+Epoch 71 tarin accuracy: 0.9648148148148148
+Epoch 71 loss: 9.921833381056786
+Epoch 71 best test accuracy: 0.8814814814814815
+
+Time: 366
+Evaluate epoch 72 accuracy: 0.8677248677248677
+Evaluate epoch 72 precision: 0.8761904761904762
+Evaluate epoch 72 recall: 0.8344671201814059
+Evaluate epoch 72 F1: 0.8548199767711964
+Epoch 72 tarin accuracy: 0.976984126984127
+Epoch 72 loss: 7.330236677080393
+Epoch 72 best test accuracy: 0.8814814814814815
+
+Time: 397
+Evaluate epoch 73 accuracy: 0.8592592592592593
+Evaluate epoch 73 precision: 0.8318965517241379
+Evaluate epoch 73 recall: 0.8752834467120182
+Evaluate epoch 73 F1: 0.8530386740331493
+Epoch 73 tarin accuracy: 0.9613756613756613
+Epoch 73 loss: 11.124823296442628
+Epoch 73 best test accuracy: 0.8814814814814815
+
+Time: 428
+Evaluate epoch 74 accuracy: 0.8476190476190476
+Evaluate epoch 74 precision: 0.851063829787234
+Evaluate epoch 74 recall: 0.8163265306122449
+Evaluate epoch 74 F1: 0.8333333333333334
+Epoch 74 tarin accuracy: 0.9664021164021164
+Epoch 74 loss: 10.868804132565856
+Epoch 74 best test accuracy: 0.8814814814814815
+
+Time: 459
+Evaluate epoch 75 accuracy: 0.8761904761904762
+Evaluate epoch 75 precision: 0.8616071428571429
+Evaluate epoch 75 recall: 0.8752834467120182
+Evaluate epoch 75 F1: 0.8683914510686165
+Epoch 75 tarin accuracy: 0.9616402116402116
+Epoch 75 loss: 12.31271287985146
+Epoch 75 best test accuracy: 0.8814814814814815
+
+Time: 489
+Evaluate epoch 76 accuracy: 0.870899470899471
+Evaluate epoch 76 precision: 0.882494004796163
+Evaluate epoch 76 recall: 0.8344671201814059
+Evaluate epoch 76 F1: 0.8578088578088577
+Epoch 76 tarin accuracy: 0.9796296296296296
+Epoch 76 loss: 6.553268985822797
+Epoch 76 best test accuracy: 0.8814814814814815
+
+Time: 520
+Evaluate epoch 77 accuracy: 0.8666666666666667
+Evaluate epoch 77 precision: 0.9291553133514986
+Evaluate epoch 77 recall: 0.7732426303854876
+Evaluate epoch 77 F1: 0.844059405940594
+Epoch 77 tarin accuracy: 0.9738095238095238
+Epoch 77 loss: 8.17647435516119
+Epoch 77 best test accuracy: 0.8814814814814815
+
+Time: 551
+Evaluate epoch 78 accuracy: 0.852910052910053
+Evaluate epoch 78 precision: 0.9171270718232044
+Evaluate epoch 78 recall: 0.7528344671201814
+Evaluate epoch 78 F1: 0.8268991282689914
+Epoch 78 tarin accuracy: 0.9777777777777777
+Epoch 78 loss: 7.564401425421238
+Epoch 78 best test accuracy: 0.8814814814814815
+
+Time: 582
+Evaluate epoch 79 accuracy: 0.8539682539682539
+Evaluate epoch 79 precision: 0.8498845265588915
+Evaluate epoch 79 recall: 0.8344671201814059
+Evaluate epoch 79 F1: 0.8421052631578948
+Epoch 79 tarin accuracy: 0.9777777777777777
+Epoch 79 loss: 7.057748729363084
+Epoch 79 best test accuracy: 0.8814814814814815
+
+Time: 613
+Evaluate epoch 80 accuracy: 0.8677248677248677
+Evaluate epoch 80 precision: 0.8390557939914163
+Evaluate epoch 80 recall: 0.8866213151927438
+Evaluate epoch 80 F1: 0.8621830209481808
+Epoch 80 tarin accuracy: 0.9761904761904762
+Epoch 80 loss: 8.033600708469748
+Epoch 80 best test accuracy: 0.8814814814814815
+
+Time: 644
+Evaluate epoch 81 accuracy: 0.8359788359788359
+Evaluate epoch 81 precision: 0.7718631178707225
+Evaluate epoch 81 recall: 0.9206349206349206
+Evaluate epoch 81 F1: 0.8397104446742503
+Epoch 81 tarin accuracy: 0.9661375661375662
+Epoch 81 loss: 10.079142231494188
+Epoch 81 best test accuracy: 0.8814814814814815
+
+Time: 674
+Evaluate epoch 82 accuracy: 0.8740740740740741
+Evaluate epoch 82 precision: 0.867579908675799
+Evaluate epoch 82 recall: 0.8616780045351474
+Evaluate epoch 82 F1: 0.8646188850967007
+Epoch 82 tarin accuracy: 0.9568783068783069
+Epoch 82 loss: 14.131380626931787
+Epoch 82 best test accuracy: 0.8814814814814815
+
+Time: 705
+Evaluate epoch 83 accuracy: 0.8867724867724868
+Evaluate epoch 83 precision: 0.8795454545454545
+Evaluate epoch 83 recall: 0.8775510204081632
+Evaluate epoch 83 F1: 0.8785471055618614
+Epoch 83 tarin accuracy: 0.9825396825396825
+Epoch 83 loss: 5.986376920714974
+Epoch 83 best test accuracy: 0.8867724867724868
+
+Time: 736
+Evaluate epoch 84 accuracy: 0.8783068783068783
+Evaluate epoch 84 precision: 0.9014778325123153
+Evaluate epoch 84 recall: 0.8299319727891157
+Evaluate epoch 84 F1: 0.8642266824085005
+Epoch 84 tarin accuracy: 0.985978835978836
+Epoch 84 loss: 4.909084958955646
+Epoch 84 best test accuracy: 0.8867724867724868
+
+Time: 766
+Evaluate epoch 85 accuracy: 0.870899470899471
+Evaluate epoch 85 precision: 0.8899755501222494
+Evaluate epoch 85 recall: 0.8253968253968254
+Evaluate epoch 85 F1: 0.8564705882352941
+Epoch 85 tarin accuracy: 0.9830687830687831
+Epoch 85 loss: 5.557850563898683
+Epoch 85 best test accuracy: 0.8867724867724868
+
+Time: 797
+Evaluate epoch 86 accuracy: 0.8846560846560847
+Evaluate epoch 86 precision: 0.9068627450980392
+Evaluate epoch 86 recall: 0.8390022675736961
+Evaluate epoch 86 F1: 0.8716136631330977
+Epoch 86 tarin accuracy: 0.978042328042328
+Epoch 86 loss: 6.66034201066941
+Epoch 86 best test accuracy: 0.8867724867724868
+
+Time: 828
+Evaluate epoch 87 accuracy: 0.8772486772486773
+Evaluate epoch 87 precision: 0.8841607565011821
+Evaluate epoch 87 recall: 0.8480725623582767
+Evaluate epoch 87 F1: 0.8657407407407408
+Epoch 87 tarin accuracy: 0.973015873015873
+Epoch 87 loss: 7.628713357262313
+Epoch 87 best test accuracy: 0.8867724867724868
+
+Time: 858
+Evaluate epoch 88 accuracy: 0.8783068783068783
+Evaluate epoch 88 precision: 0.8622222222222222
+Evaluate epoch 88 recall: 0.8798185941043084
+Evaluate epoch 88 F1: 0.8709315375982043
+Epoch 88 tarin accuracy: 0.9804232804232804
+Epoch 88 loss: 6.916833164170384
+Epoch 88 best test accuracy: 0.8867724867724868
+
+Time: 889
+Evaluate epoch 89 accuracy: 0.8804232804232804
+Evaluate epoch 89 precision: 0.8565217391304348
+Evaluate epoch 89 recall: 0.8934240362811792
+Evaluate epoch 89 F1: 0.874583795782464
+Epoch 89 tarin accuracy: 0.9796296296296296
+Epoch 89 loss: 6.185727557167411
+Epoch 89 best test accuracy: 0.8867724867724868
+
+Time: 920
+Evaluate epoch 90 accuracy: 0.873015873015873
+Evaluate epoch 90 precision: 0.8794326241134752
+Evaluate epoch 90 recall: 0.8435374149659864
+Evaluate epoch 90 F1: 0.8611111111111112
+Epoch 90 tarin accuracy: 0.9851851851851852
+Epoch 90 loss: 5.10490832477808
+Epoch 90 best test accuracy: 0.8867724867724868
+
+Time: 951
+Evaluate epoch 91 accuracy: 0.8793650793650793
+Evaluate epoch 91 precision: 0.8427672955974843
+Evaluate epoch 91 recall: 0.9115646258503401
+Evaluate epoch 91 F1: 0.8758169934640524
+Epoch 91 tarin accuracy: 0.9907407407407407
+Epoch 91 loss: 3.233559815213084
+Epoch 91 best test accuracy: 0.8867724867724868
+
+Time: 981
+Evaluate epoch 92 accuracy: 0.8634920634920635
+Evaluate epoch 92 precision: 0.8714285714285714
+Evaluate epoch 92 recall: 0.8299319727891157
+Evaluate epoch 92 F1: 0.8501742160278746
+Epoch 92 tarin accuracy: 0.9775132275132276
+Epoch 92 loss: 6.6194071946665645
+Epoch 92 best test accuracy: 0.8867724867724868
+
+Time: 1012
+Evaluate epoch 93 accuracy: 0.8740740740740741
+Evaluate epoch 93 precision: 0.859375
+Evaluate epoch 93 recall: 0.873015873015873
+Evaluate epoch 93 F1: 0.8661417322834646
+Epoch 93 tarin accuracy: 0.9791005291005291
+Epoch 93 loss: 6.120365111157298
+Epoch 93 best test accuracy: 0.8867724867724868
+
+Time: 1043
+Evaluate epoch 94 accuracy: 0.870899470899471
+Evaluate epoch 94 precision: 0.8302277432712215
+Evaluate epoch 94 recall: 0.909297052154195
+Evaluate epoch 94 F1: 0.867965367965368
+Epoch 94 tarin accuracy: 0.9917989417989418
+Epoch 94 loss: 3.062239645048976
+Epoch 94 best test accuracy: 0.8867724867724868
+
+Time: 1073
+Evaluate epoch 95 accuracy: 0.8719576719576719
+Evaluate epoch 95 precision: 0.8448275862068966
+Evaluate epoch 95 recall: 0.8888888888888888
+Evaluate epoch 95 F1: 0.8662983425414365
+Epoch 95 tarin accuracy: 0.9801587301587301
+Epoch 95 loss: 6.330806091427803
+Epoch 95 best test accuracy: 0.8867724867724868
+
+Time: 1104
+Evaluate epoch 96 accuracy: 0.8835978835978836
+Evaluate epoch 96 precision: 0.902676399026764
+Evaluate epoch 96 recall: 0.8412698412698413
+Evaluate epoch 96 F1: 0.8708920187793427
+Epoch 96 tarin accuracy: 0.982010582010582
+Epoch 96 loss: 6.777171056717634
+Epoch 96 best test accuracy: 0.8867724867724868
+
+Time: 1135
+Evaluate epoch 97 accuracy: 0.8846560846560847
+Evaluate epoch 97 precision: 0.8624454148471615
+Evaluate epoch 97 recall: 0.8956916099773242
+Evaluate epoch 97 F1: 0.8787541713014461
+Epoch 97 tarin accuracy: 0.9904761904761905
+Epoch 97 loss: 3.1850032415241003
+Epoch 97 best test accuracy: 0.8867724867724868
+
+Time: 1166
+Evaluate epoch 98 accuracy: 0.8677248677248677
+Evaluate epoch 98 precision: 0.8872549019607843
+Evaluate epoch 98 recall: 0.8208616780045351
+Evaluate epoch 98 F1: 0.8527679623085983
+Epoch 98 tarin accuracy: 0.9838624338624339
+Epoch 98 loss: 5.42867137491703
+Epoch 98 best test accuracy: 0.8867724867724868
+
+Time: 1197
+Evaluate epoch 99 accuracy: 0.873015873015873
+Evaluate epoch 99 precision: 0.8527472527472527
+Evaluate epoch 99 recall: 0.8798185941043084
+Evaluate epoch 99 F1: 0.8660714285714286
+Epoch 99 tarin accuracy: 0.9825396825396825
+Epoch 99 loss: 5.455745005048811
+Epoch 99 best test accuracy: 0.8867724867724868
+
+Time: 1227
+Evaluate epoch 100 accuracy: 0.8592592592592593
+Evaluate epoch 100 precision: 0.8377192982456141
+Evaluate epoch 100 recall: 0.8662131519274376
+Evaluate epoch 100 F1: 0.8517279821627648
+Epoch 100 tarin accuracy: 0.9804232804232804
+Epoch 100 loss: 6.90926269069314
+Epoch 100 best test accuracy: 0.8867724867724868
